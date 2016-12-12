@@ -1,0 +1,10 @@
+C:\Users\HungM\Downloads\Compressed\pFDesigner_sourcecode_and_demo\pFDesigner\DesignSurfaceExt\DesignSurfaceExt\bin\Debug\DesignSurfaceExt2.dll
+C:\Users\HungM\Downloads\Compressed\pFDesigner_sourcecode_and_demo\pFDesigner\DesignSurfaceExt\DesignSurfaceExt\bin\Debug\DesignSurfaceExt2.pdb
+C:\Users\HungM\Downloads\Compressed\pFDesigner_sourcecode_and_demo\pFDesigner\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt.csprojResolveAssemblyReference.cache
+C:\Users\HungM\Downloads\Compressed\pFDesigner_sourcecode_and_demo\pFDesigner\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt2.dll
+C:\Users\HungM\Downloads\Compressed\pFDesigner_sourcecode_and_demo\pFDesigner\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt2.pdb
+C:\DEV\DesignTool_Winforms\DesignSurfaceExt\DesignSurfaceExt\bin\Debug\DesignSurfaceExt2.dll
+C:\DEV\DesignTool_Winforms\DesignSurfaceExt\DesignSurfaceExt\bin\Debug\DesignSurfaceExt2.pdb
+C:\DEV\DesignTool_Winforms\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt.csprojResolveAssemblyReference.cache
+C:\DEV\DesignTool_Winforms\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt2.dll
+C:\DEV\DesignTool_Winforms\DesignSurfaceExt\DesignSurfaceExt\obj\Debug\DesignSurfaceExt2.pdb
